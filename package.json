@@ -1,0 +1,17 @@
+{
+  "name": "a6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assn6.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Assn6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2"
+  }
+}
